@@ -14,11 +14,11 @@ The platform provides business owners with complete control over orders, custome
 
 ### Login
 
-![Login](assets/screenshots/login.png)
+![Login](assets/screenshots/login.jpeg)
 
 ### Dashboard
 
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](assets/screenshots/dashboard.jpeg)
 
 ### Open Orders
 
@@ -26,15 +26,15 @@ The platform provides business owners with complete control over orders, custome
 
 ### Product Management
 
-![Products](assets/screenshots/products.png)
+![Products](assets/screenshots/cadastro-produtos.jpeg)
 
 ### Customer Loyalty
 
-![Customers](assets/screenshots/customers.png)
+![Customers](assets/screenshots/cadastro.jpeg)
 
 ### Financial Dashboard
 
-![Financial](assets/screenshots/financial.png)
+![Financial](assets/screenshots/dashboard.jpeg)
 
 ### Business Management
 
