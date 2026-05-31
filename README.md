@@ -20,21 +20,8 @@ The platform provides business owners with complete control over orders, custome
 
 ![Dashboard](assets/screenshots/dashboard.jpeg)
 
-### Open Orders
-
-![Open Orders](assets/screenshots/open-orders.png)
-
-### Product Management
-
+### products
 ![Products](assets/screenshots/cadastro-produtos.jpeg)
-
-### Customer Loyalty
-
-![Customers](assets/screenshots/cadastro.jpeg)
-
-### Financial Dashboard
-
-![Financial](assets/screenshots/dashboard.jpeg)
 
 ### Business Management
 
