@@ -10,6 +10,32 @@ The platform provides business owners with complete control over orders, custome
 
 ## Main Features
 
+## Screenshots
+
+### Login
+
+![Login](assets/screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](assets/screenshots/dashboard.png)
+
+### Open Orders
+
+![Open Orders](assets/screenshots/open-orders.png)
+
+### Product Management
+
+![Products](assets/screenshots/products.png)
+
+### Customer Loyalty
+
+![Customers](assets/screenshots/customers.png)
+
+### Financial Dashboard
+
+![Financial](assets/screenshots/financial.png)
+
 ### Business Management
 
 * Company Registration
