@@ -1,17 +1,69 @@
-# arena_comanda
+# Comanda Play SaaS
 
-A new Flutter project.
+Subscription-based restaurant management platform built with Flutter, Dart and Firebase.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Comanda Play is a multi-tenant SaaS platform developed to modernize restaurant operations and eliminate the use of paper-based order management.
 
-A few resources to get you started if this is your first Flutter project:
+The platform provides business owners with complete control over orders, customers, employees, products and financial performance through a centralized dashboard.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Main Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Business Management
+
+* Company Registration
+* Authentication System
+* Multi-Tenant Architecture
+* Employee Access Control
+
+### Order Management
+
+* Open Orders
+* Active Orders Monitoring
+* Order Details
+* Customer Service Workflow
+
+### Product Management
+
+* Product Registration
+* Inventory Control
+* Product Availability Management
+
+### Customer Management
+
+* Customer Registration
+* Loyalty Program
+* Customer Ranking System
+
+### Financial Management
+
+* Financial Dashboard
+* Daily Reports
+* Monthly Reports
+* Date Filtering
+* Email Report Generation
+
+### Team Management
+
+* Employee Registration
+* Permission Management
+* Operational Access Control
+
+## Technology Stack
+
+* Flutter
+* Dart
+* Firebase Authentication
+* Cloud Firestore
+* Firebase Hosting
+* Multi-Tenant SaaS Architecture
+
+## Status
+
+Production Project
+
+## Author
+
+Mailson Oliveira
+Flutter Developer
