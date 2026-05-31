@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "275827649853",
+    "project_id": "comandaplay",
+    "storage_bucket": "comandaplay.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275827649853:android:06be6cf2a08c3d0d442954",
+        "android_client_info": {
+          "package_name": "com.example.arena_comanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275827649853-2vdlf335cgfp6573vfvaapi46dsjbn10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arena_comanda",
+            "certificate_hash": "1194f60b28df942009fe13ef7b3cbcc49ef7969d"
+          }
+        },
+        {
+          "client_id": "275827649853-5plgedbihl9q6n9stj1nuueec0d42g8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0gCyy_82opfUh1MEDYPsfffwPgd0uCIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275827649853-5plgedbihl9q6n9stj1nuueec0d42g8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "275827649853-t8rrcckacnv1em0aroo48ri0vtl8mson.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arenaComanda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
